@@ -1,0 +1,204 @@
+@font-face{
+	font-family: kolya;
+	src: url(minecraft.ttf);
+}
+.bg-danger{
+	background: red;
+}
+.w-500{
+	width: 500px;
+}
+.txtminecraft{
+	font-family: kolya;
+}
+.h-100{
+	height: 100px;
+}
+.h-50{
+	height: 50px;
+}
+.h-500{
+	height: 500px;
+}
+.brdr{
+	border-style: solid;
+	border-width: 2px;
+}
+.mg-t10{
+	margin-top: 10px;
+}
+.mg-l100{
+	margin-left: 100px;
+}
+.h-350{
+	height: 350px;
+}
+.w-350{
+	width: 350px;
+}
+.w-400{
+	width: 400px;
+}
+.h-800{
+	height: 800px;
+}
+.h-900{
+	height: 900px;
+}
+.h-1000{
+	height: 1000px;
+}
+.h-700{
+	height: 700px;
+}
+.d-flex{
+	display: flex;
+}
+.w-700{
+	width: 700px;
+}
+.bg-powshen{
+	background: #24FF00;
+}
+.w-1200{
+	width: 1200px;
+}
+.w-1250{
+	width: 1250px;
+}
+.mg-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.h-200{
+	height: 200px;
+}
+.fixed{
+	position: sticky;
+	top: 0
+}
+.body{
+	margin: 0px;
+	background: #D8D8D8;
+}
+.w-1246{
+	width: 1246px;
+}
+.h-400{
+	height: 400px;
+}
+.h-300{
+	height: 300px;
+}
+.h-150{
+	height: 150px;
+}
+.bg-afro{
+	background: #282828;
+}
+.w-900{
+	width: 900px;
+}
+.mg-t50{
+	margin-top: 50px;
+}
+.mg-l10{
+	margin-left: 10px;
+}
+.h-70{
+	height: 70px;
+}
+.h-10{
+	height: 10px;
+}
+.w-100{
+	width: 100px;
+}
+.w-200{
+	width: 200px;
+}
+.w-120{
+	width: 120px;
+}
+.mg-l50{
+	margin-left: 50px;
+}
+.w-150{
+	width: 150px;
+}
+.mg-l20{
+	margin-left: 20px;
+}
+.mg-t20{
+	margin-top: 20px;
+}
+.w-275{
+	width: 275px;
+}
+.mg-t15{
+	margin-top: 15px;
+}
+.mg-l40{
+	margin-left: 40px;
+}
+.w-250{
+	width: 250px;
+}
+.h-175{
+	height: 175px;
+}
+.mg-l45{
+	margin-left: 45px;
+}
+.h-270{
+	height: 270px;
+}
+.mg-t5{
+	margin-top: 5px;
+}
+.mg-l30{
+	margin-left: 30px;
+}
+.w-265{
+	width: 265px;
+}
+.bg-pony{
+	background: pink;
+}
+.h-260{
+	height: 260px;
+}
+.h-250{
+ 	height: 250px;
+}
+.w-280{
+	width: 280px;
+}
+.mg-l15{
+	margin-left: 15px;
+}
+.mg-l21{
+	margin-left: 21px;
+}
+.bg-cat{
+	background: grey;
+}
+.h-1000{
+	height: 1000px;
+}
+.h-500{
+	height: 500px;
+}
+.h-1250{
+	height: 1250px;
+}
+.h-80{
+	height: 80px;
+}
+.h-275{
+	height: 275px;
+}
+.bg-image{
+	background-image: url(FonziM.jpg);
+	background-size: 100% 100%;
+}
